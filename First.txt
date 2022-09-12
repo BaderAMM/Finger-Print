@@ -8,5 +8,7 @@ git status
 git commit -m "message"
 git log
 
+git push
+
 git add + file name
 git commit -m "message"
